@@ -3,4 +3,4 @@
 -J-Xss2M
 -J-XX:MaxMetaspaceSize=1024M
 -J-Djava.net.preferIPv4Stack=true
-
+-J-Dlogger.file=logback.xml
